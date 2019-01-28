@@ -1,0 +1,3 @@
+* Change cpplua.pro according to your system
+* qmake
+* make
